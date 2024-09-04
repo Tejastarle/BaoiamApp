@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">BaoiamApp</string>
+    <string name="welcomeText">Welcome</string>
+    <string name="welcomeText2">We are glad that you \n are here</string>
+    <string name="next">Next</string>
+    <string name="startLearning">\u0020Start learning \n anywhere, and  \n build your </string>
+    <string name="brightCareer">\u0020bright career</string>
+    <string name="baoiamIntro">BAOIAM is an E-learning platform that facilitates holistic skill development through a variety of courses, empowering learners to pursue their passions.</string>
+    <string name="startLearningButton">Start Learning</string>
+    <string name="signIn">Sign In</string>
+    <string name="emailPhonenumber">Email / Phone Number</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="forgetPassword">Forget Password ?</string>
+    <string name="orLoginWith">--------------   or login with  -------------- </string>
+    <string name="dontHaveAnAccount">Don\'t have an account ? </string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="createAnAccount">Create an account</string>
+    <string name="signup">Sign Up</string>
+    <string name="alreadyHaveAnAccount">Already have an account ?</string>
+    <string name="enterYourRegisteredEmailOrPhoneNo">Enter your registered email or phone number to send an OTP to reset your password</string>
+    <string name="forgotPassword">Forgot Password ?</string>
+    <string name="sendCode">Send Code</string>
+    <string name="otpVerfication">OTP Verification</string>
+    <string name="enterOtp">Enter OTP sent to your phone or email</string>,
+    <string name="default_otp">-</string>
+    <string name="verify">Verify</string>
+    <string name="resend">Resend</string>
+    <string name="createNewPassword">Create New Password</string>
+    <string name="resetPassword">Reset Password</string>
+    <string name="passwordHasBeenUpdated">You\'re Password has been updated</string>
+    <string name="updatedSuccessfully">Updated successfully</string>
+    <string name="accountCreatedSuccessfully">Account created successfully</string>
+    <string name="loginUsingUsernameAndPassword">Login using username and password</string>
+    <string name="explore">Explore</string>
+    <string name="myCourse">My Course</string>
+    <string name="career">Career</string>
+    <string name="profile">Profile</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="certificate">Certificate</string>
+    <string name="referAndEarn">Refer and earn</string>
+    <string name="settings">Settings</string>
+    <string name="enterYourFullName">Enter your full name</string>
+    <string name="enterYourPhoneNumber">Enter your phone number</string>
+    <string name="emailAddress">Enter your email</string>
+    <string name="write_your_msg">Write your message</string>
+    <string name="chat_msg_1">I want to change my course which I purchased.</string>
+    <string name="chat_msg_2">Sorry, Alex I don\'t have any information on this. Would you like to connect with our team?</string>
+    <string name="enterYourPhoneNo">+91|    Enter your phone number</string>
+    <string name="enterYourEmail">Enter your email</string>
+    <string name="save">save</string>
+    <string name="profilePic">Profile Picture of the user</string>
+    <string name="welcome">Welcome, </string>
+    <string name="whatDoYouWantToLearn">What do you want to learn ?</string>
+    <string name="search">Search</string>
+    <string name="mic">Mic</string>
+    <string name="offer">Offer</string>
+    <string name="contact_us">You can get in touch with us through below platforms. Our team will reach out to you as soon as possible.</string>
+    <string name="chatwithus_text">Lorem ipsum dolor sit\namet,consectetur adipiscing elit</string>
+    <string name="help_support_about_us">Lorem ipsum dolor sit amet,consectetur adipiscing elit,
+                    sed do eiusmod tempor incididunt ut labore et
+                    dolore magna aliqua.Ut enim ad minim veniam,
+                    quis nostrud exercitation ullamco laboris nisi ut aliquip
+                    ex ea commodo consequat.</string>
+    <string name="our_story">Lorem ipsum dolor sit amet,consectetur adipiscing elit,
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam,
+        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+        nulla pariatur.Excepteur sint occaecat cupidatat non proident,
+        sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="logout_text">You are about to logout \nAre you sure this is what \nyou want?</string>
+    <string name="enterName">Please enter name</string>
+    <string name="enterEmailOrPhoneNumber">Please enter email or phone number</string>
+    <string name="enterPhoneNumber">Please enter phone number</string>
+    <string name="enterPassword">Please enter password</string>
+    <string name="enterConfirmPassword">Please enter password to confirm</string>
+    <string name="emailValidation">This is not a valid email</string>
+    <string name="phoneNumberValidation">Please enter 10 digit number</string>
+    <string name="passwordValidation">Confirm password did not match</string>
+    <string name="validationAccepted">Correct</string>
+    <string name="enterOTP">Enter OTP</string>
+    <string name="updatingProfile">Updating Profile</string>
+    <string name="updatingProfilePicture">Updating profile picture</string>
+    <string name="recommendedForYou">Recommended for you</string>
+</resources>
